@@ -1,0 +1,50 @@
+ .bg-dark {
+            background-color: #16817a!important;
+        }
+        .container img{
+            margin-right: 25px;
+           width: 20%;
+           height:unset;
+         float: left;
+         
+        }
+.headclr{
+    background-color: #f8f3eb;
+   
+    border-radius: 0;
+    
+}
+        body{
+            background-color: #ff926b;
+        }
+        .font{
+            font-family:monospace!important;
+            font-size: 20px;
+            color: whitesmoke!important;             
+        }
+        
+          
+ .bclr{
+            background-color: #16817a;
+            border-color: teal;
+            
+        }
+.bclr:hover{
+    background-color:  #ff926b;
+    border-color: black;
+    
+}
+     
+        .op{
+          opacity: 1!important;
+          color: whitesmoke!important;
+        }
+
+
+        @media (max-width: 725px) {
+        .hsize{
+          font-size: 1.5rem!important;
+          font-weight:400;
+            
+        }
+      }
